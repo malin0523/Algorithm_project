@@ -1,1 +1,1 @@
-# Algorithm_project
+# 3학년 2학기 알고리즘 팀 프로젝트
